@@ -13,3 +13,9 @@ I am adapting the 100 days of code challenge:
 4. I will be learning by tutorials on Udacity, Udemy, Medium, books and other websites
 
 5. Journal on *log.md*
+
+#### **Online Courses**
+
+**Udacity C++ for Programmers**
+<a HREF="https://classroom.udacity.com/courses/ud775">C++ for Programmers</a>
+
