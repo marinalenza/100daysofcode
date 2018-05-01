@@ -44,7 +44,7 @@ int main()
     A = 0;
     B = 1;
     C = 0; //0 1 0
-    bool Q = (A&&B&&C)||(A&&(!B)||(!C));
+    Q = (A&&B&&C)||(A&&(!B)||(!C));
     std::cout<<"A\tB\tC\t(A && B && C)\t\t(!B||!C)\t\t(A&&(!B||!C))\t\tQ\n";
     std::cout<<A<<"\t"<<B<<"\t"<<C<<"\t"<<(A&&B&&C)<<"\t\t"<<(!B||!C)<<"\t\t"<<(A&&(!B||!C))<<"\t\t"<<Q<<std::endl;
     return 0;
