@@ -16,6 +16,6 @@ I am adapting the 100 days of code challenge:
 
 #### **Online Courses**
 
-**Udacity C++ for Programmers**
+Udacity C++ for Programmers
 <a HREF="https://classroom.udacity.com/courses/ud775">C++ for Programmers</a>
 
