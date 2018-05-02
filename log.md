@@ -15,3 +15,11 @@
 - Switch Program
 - For Loop Program
 
+### **Day 3: 02/05/2018**
+
+- Array lesson
+- Make programs to find min and max volues and sorting the values
+- The multidemensional array was ok, but they it was wrong
+- They don't have video lessons on this chapter
+- Great news: I have a schoolarship for the Introduction to Descripitive Statistics by Udacity
+
