@@ -23,3 +23,10 @@
 - They don't have video lessons on this chapter
 - Great news: I have a schoolarship for the Introduction to Descripitive Statistics by Udacity
 
+### **Day 4: 03/05/2018**
+
+- Functions lessons
+- I like this lesson, it didn't have any videos, but it teachs very well about functions
+- Learned how to make a header file
+- Next lesson is about classes finally
+
