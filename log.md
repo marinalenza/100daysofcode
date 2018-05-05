@@ -30,3 +30,9 @@
 - Learned how to make a header file
 - Next lesson is about classes finally
 
+### **Day 5: 04/05/2018**
+
+- Classes lessons
+- Learned classes concepts, constructors, destructors, helper files
+- I didn't finish the whole class
+
