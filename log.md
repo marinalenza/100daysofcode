@@ -36,3 +36,7 @@
 - Learned classes concepts, constructors, destructors, helper files
 - I didn't finish the whole class
 
+###**Day 6: 05/05/2018**
+
+- I have finished Classes Lessons: Arrays, Pointers, Constructors
+- Review: It was good to teach the basics, but it doesn't have any videos, it has few examples and there are many bugs on the compile
