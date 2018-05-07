@@ -45,3 +45,8 @@
 
 - I have finished the Overloading Class
 - It has better than the Classes, shorter and better explained. It doesn't have any videos.
+
+###**Day 8: 07/05/2018**
+
+- Lessons on Templates
+- Very easy and fast lesson
