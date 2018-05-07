@@ -40,3 +40,8 @@
 
 - I have finished Classes Lessons: Arrays, Pointers, Constructors
 - Review: It was good to teach the basics, but it doesn't have any videos, it has few examples and there are many bugs on the compile
+
+###**Day 7: 06/05/2018**
+
+- I have finished the Overloading Class
+- It has better than the Classes, shorter and better explained. It doesn't have any videos.
