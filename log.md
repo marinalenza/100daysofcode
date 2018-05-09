@@ -50,3 +50,8 @@
 
 - Lessons on Templates
 - Very easy and fast lesson
+
+###**Day 9: 08/05/2018**
+
+- Complete the first part of multiple inheritance
+- Easy, but it doesn't explain very well the diference between private and protected access
