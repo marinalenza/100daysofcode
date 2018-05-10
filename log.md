@@ -36,30 +36,30 @@
 - Learned classes concepts, constructors, destructors, helper files
 - I didn't finish the whole class
 
-###**Day 6: 05/05/2018**
+### **Day 6: 05/05/2018**
 
 - I have finished Classes Lessons: Arrays, Pointers, Constructors
 - Review: It was good to teach the basics, but it doesn't have any videos, it has few examples and there are many bugs on the compile
 
-###**Day 7: 06/05/2018**
+### **Day 7: 06/05/2018**
 
 - I have finished the Overloading Class
 - It has better than the Classes, shorter and better explained. It doesn't have any videos.
 
-###**Day 8: 07/05/2018**
+### **Day 8: 07/05/2018**
 
 - Lessons on Templates
 - Very easy and fast lesson
 
-###**Day 9: 08/05/2018**
+### **Day 9: 08/05/2018**
 
 - Complete the first part of multiple inheritance
 
-###**Day 10: 09/05/2018**
+### **Day 10: 09/05/2018**
 
 - Finished multiple inheritance
 
-###**Day 11: 10/05/2018**
+### **Day 11: 10/05/2018**
 
 - Finished Virtual Functions Class, it didn't have any exercises
 - Started vectors class
