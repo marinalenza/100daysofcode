@@ -54,4 +54,13 @@
 ###**Day 9: 08/05/2018**
 
 - Complete the first part of multiple inheritance
+
+###**Day 10: 09/05/2018**
+
+- Finished multiple inheritance
+
+###**Day 11: 10/05/2018**
+
+- Finished Virtual Functions Class, it didn't have any exercises
+- Started vectors class
 - Easy, but it doesn't explain very well the diference between private and protected access
