@@ -34,6 +34,6 @@ using namespace std;
       vector<int>::iterator it;
       cout<<"\nemplacing "<<in<<" and printing the vector\n";
       it=vInts.begin();
-      vInts.emplace(it+loc,in);
+      vInts.insert(it+loc,in);
       printVector(vInts);
   }
