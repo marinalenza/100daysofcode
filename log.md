@@ -64,3 +64,19 @@
 - Finished Virtual Functions Class, it didn't have any exercises
 - Started vectors class
 - Easy, but it doesn't explain very well the diference between private and protected access
+
+### **Day 12: 11/05/2018**
+
+- Vectors and iteractors
+- Okay class
+
+### **Day 13: 12/05/2018**
+
+- Vector program of the "Beginning C++ for Game Programming"
+- I like this book, but I was expecting a more challeging exercise
+
+### **Day 14: 13/05/2018**
+
+- Add Elements to Vector
+- Emplace doesn't work on my computer,it is probably the version of C++
+
