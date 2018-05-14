@@ -80,3 +80,9 @@
 - Add Elements to Vector
 - Emplace doesn't work on my computer,it is probably the version of C++
 
+### **Day 15: 14/05/2018**
+
+- Finished C++ course
+- Now it's python
+- Very basic for now
+
