@@ -86,3 +86,6 @@
 - Now it's python
 - Very basic for now
 
+### **Day16: 15/05/2018**
+
+- Variables on Python
