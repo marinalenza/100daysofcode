@@ -95,3 +95,7 @@
 - Data types on python
 - Boolean
 - Strings
+
+### **Day 18: 17/05/2018**
+
+- I worked on some Matlab script for my thesis
