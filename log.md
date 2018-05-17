@@ -89,3 +89,8 @@
 ### **Day16: 15/05/2018**
 
 - Variables on Python
+
+### **Day 17: 16/05/2018**
+
+- Data types on python
+- Boolean
