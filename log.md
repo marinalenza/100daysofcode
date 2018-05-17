@@ -94,3 +94,4 @@
 
 - Data types on python
 - Boolean
+- Strings
