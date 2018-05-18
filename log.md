@@ -99,3 +99,8 @@
 ### **Day 18: 17/05/2018**
 
 - I worked on some Matlab script for my thesis
+
+### **Day 19: 18/05/2018**
+
+- Data Types
+- String Methods
