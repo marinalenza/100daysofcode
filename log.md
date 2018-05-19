@@ -104,3 +104,9 @@
 
 - Data Types
 - String Methods
+
+### **Day 20: 19/05/2018**
+
+- Lists
+- Dictionaries
+- I have finished the data types lesson
