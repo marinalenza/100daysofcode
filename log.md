@@ -114,3 +114,7 @@
 ### **Day 21: 20/05/2018**
 
 - Control Flow: If-Else
+
+### **Day 22: 21/05/2018**
+
+- Continue with Control Flow Lesson
