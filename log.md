@@ -110,3 +110,7 @@
 - Lists
 - Dictionaries
 - I have finished the data types lesson
+
+### **Day 21: 20/05/2018**
+
+- Control Flow: If-Else
