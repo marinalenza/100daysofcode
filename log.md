@@ -118,3 +118,7 @@
 ### **Day 22: 21/05/2018**
 
 - Continue with Control Flow Lesson
+
+### **Day 23: 22/05/2018**
+
+- Boolean expressions
