@@ -127,3 +127,7 @@
 
 - For Loops
 - Create username
+
+### **Day 25: 24/05/2018**
+
+- Exercise for loop
