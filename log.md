@@ -122,3 +122,8 @@
 ### **Day 23: 22/05/2018**
 
 - Boolean expressions
+
+### **Day 24: 23/05/2018**
+
+- For Loops
+- Create username
