@@ -131,3 +131,7 @@
 ### **Day 25: 24/05/2018**
 
 - Exercise for loop
+
+### **Day 26: 26/05/2015**
+
+- Interactions for loop in dictionary
