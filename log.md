@@ -135,3 +135,8 @@
 ### **Day 26: 26/05/2015**
 
 - Interactions for loop in dictionary
+
+### **Day 27: 27/05/2015**
+
+- While Loop
+- Factorial with while loop and for loop
