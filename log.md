@@ -132,11 +132,15 @@
 
 - Exercise for loop
 
-### **Day 26: 26/05/2015**
+### **Day 26: 26/05/2018**
 
 - Interactions for loop in dictionary
 
-### **Day 27: 27/05/2015**
+### **Day 27: 27/05/2018**
 
 - While Loop
 - Factorial with while loop and for loop
+
+### **Day 28: 28/05/2018**
+
+- Calculator in QT project
