@@ -143,4 +143,8 @@
 
 ### **Day 28: 28/05/2018**
 
-- Calculator in QT project
+- Calculator in QT Cpp project
+
+### **Day 29: 29/05/2018**
+
+- Count by using a while loop
