@@ -148,3 +148,7 @@
 ### **Day 29: 29/05/2018**
 
 - Count by using a while loop
+
+### **Day 30: 30/05/2018**
+
+- Count using while loop and condition
