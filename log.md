@@ -156,3 +156,11 @@
 ### **Day 31: 31/05/2018**
 
 - Low level arduino programming
+
+### **Day 32: 01/06/2018**
+
+- While loop on python
+
+### **Day 33: 02/06/2018**
+
+- Check parity on C++
