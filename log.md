@@ -164,3 +164,7 @@
 ### **Day 33: 02/06/2018**
 
 - Check parity on C++
+
+### **Day 34: 03/06/2018**
+
+- Discover nearest square
