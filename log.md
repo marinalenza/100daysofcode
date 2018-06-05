@@ -168,3 +168,7 @@
 ### **Day 34: 03/06/2018**
 
 - Discover nearest square
+
+### **Day 35: 04/06/2018**
+
+- Break and continue
