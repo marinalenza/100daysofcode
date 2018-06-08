@@ -184,3 +184,8 @@
 ### **Day 38: 07/06/2018**
 
 - Unzip with Tuple
+
+### **Day 39: 08/06/2018**
+
+- Transpose matrix with zip
+- Enumerate
