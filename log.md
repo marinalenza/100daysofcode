@@ -189,3 +189,8 @@
 
 - Transpose matrix with zip
 - Enumerate
+
+### **Day 40: 09/06/2018**
+
+- List Comprehensions
+- End of Control Flow Lesson
