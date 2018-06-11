@@ -194,3 +194,7 @@
 
 - List Comprehensions
 - End of Control Flow Lesson
+
+### **Day 41: 10/06/2018**
+
+- Functions
