@@ -198,3 +198,7 @@
 ### **Day 41: 10/06/2018**
 
 - Functions
+
+### **Day 42: 11/06/2018**
+
+- Continuing on Functions Definitions
