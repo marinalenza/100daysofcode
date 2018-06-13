@@ -202,3 +202,9 @@
 ### **Day 42: 11/06/2018**
 
 - Continuing on Functions Definitions
+
+### **Day 43: 12/06/2018**
+
+- Variable Scope
+- Documentation
+- Lambda Functions
